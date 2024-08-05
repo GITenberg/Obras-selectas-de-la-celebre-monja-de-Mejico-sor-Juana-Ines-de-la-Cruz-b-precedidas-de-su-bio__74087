@@ -1,0 +1,60 @@
+_repo: Obras-selectas-de-la-celebre-monja-de-Mejico-sor-Juana-Ines-de-la-Cruz-b-precedidas-de-su-bio__74087
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Mera, Juan León
+    aliases:
+    - Mera, Juan Leon
+    - Martínez, Juan León Mera
+    - Martinez, Juan Leon Mera
+    birthdate: 1832
+    deathdate: 1894
+    gutenberg_agent_id: '57342'
+    url: http://www.gutenberg.org/2009/agents/57342
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Juan_Le%C3%B3n_Mera
+    - https://es.wikipedia.org/wiki/Juan_Le%C3%B3n_Mera
+creator:
+  author:
+    agent_name: Juana Inés de la Cruz, Sister
+    aliases:
+    - Juana Ines de la Cruz, Sister
+    - Cruz, Juana Inés de la, Sister
+    - Juana Inés de la Cruz, sor
+    - Santillana, Juana de Asbaje y Ramírez de
+    - Santillana, Juana de Asbaje y Ramirez de
+    - Sor Juana Inéz de la Cruz
+    - Décima musa
+    - Sor Juana Inez de la Cruz
+    - Decima musa
+    birthdate: 1651
+    deathdate: 1695
+    gutenberg_agent_id: '57340'
+    url: http://www.gutenberg.org/2009/agents/57340
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Juana_In%C3%A9s_de_la_Cruz
+    - https://es.wikipedia.org/wiki/Juana_In%C3%A9s_de_la_Cruz
+description: ''
+gutenberg_issued: '2024-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74087'
+  lccn: '34003135'
+language: es
+pgterms:marc904: https://archive.org/details/obrasselectasdel00juan/page/n3/mode/2up
+pgterms:marc905: 20230713161804inesdelacr
+pgterms:marc906: '1873'
+pgterms:marc907: EC
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: '  $aQuito :$bImprenta Nacional, $c1873.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mexican literature -- 17th century'
+- !lcc 'PQ'
+- GITenberg
+title: 'Obras selectas de la celebre monja de Mejico, sor Juana Ines de la Cruz :
+  $b precedidas de su biografia y juicio crítico sobre todas sus producciones'
+url: http://www.gutenberg.org/ebooks/74087
