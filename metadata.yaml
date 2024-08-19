@@ -14,6 +14,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Juan_Le%C3%B3n_Mera
     - https://es.wikipedia.org/wiki/Juan_Le%C3%B3n_Mera
+covers:
+- cover_type: archival
+  image_path: 74087-h/images/cover.jpg
 creator:
   author:
     agent_name: Juana Inés de la Cruz, Sister
@@ -35,6 +38,8 @@ creator:
     - https://en.wikipedia.org/wiki/Juana_In%C3%A9s_de_la_Cruz
     - https://es.wikipedia.org/wiki/Juana_In%C3%A9s_de_la_Cruz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74087#Obras-selectas-de-la-celebre-monja-de-Mejico-sor-Juana-Ines-de-la-Cruz-b-precedidas-de-su-bio_
 gutenberg_issued: '2024-07-21'
 gutenberg_type: Text
 identifiers:
